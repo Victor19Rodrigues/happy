@@ -13,12 +13,12 @@
   </a>
   
   <a href="https://github.com/VictorRodrigues/happy/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VictorRodrigues/happy">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Victor19Rodrigues/happy">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    <a href="https://github.com/VictorRodrigues/happy/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/VictorRodrigues/happy?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/Victor19Rodrigues/happy?style=social">
   </a>
 </p>
 <!-- <p align="center">
