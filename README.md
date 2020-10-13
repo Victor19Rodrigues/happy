@@ -53,7 +53,7 @@ Happy is a project developed based on Children's Day.
 That aims to connect people to orphanages that allow to make a children's day more special.
 
 <h1 align="center">
-    <img alt="Example" title="Example" src=".github/Home.svg" width="500px" />
+    <img alt="Example" title="Example" src=".github/home.svg" width="500px" />
 </h1>
 
 
