@@ -79,9 +79,7 @@ From your command line:
 
 ### Install API 
 
-:construction: ...Under construction.. :construction:
-
-<!-- ```bash
+```bash
 # Clone this repository
 $ git clone https://github.com/Victor19Rodrigues/happy
 
@@ -98,7 +96,7 @@ $ yarn typeorm migration:run
 $ yarn dev
 
 # running on port 3333
-``` -->
+```
 
 ### Install Front-end
 
