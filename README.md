@@ -134,7 +134,7 @@ $ yarn start
 # Expo will open, just scan the qrcode on terminal or expo page
 
 # If some problem with fonts, execute:
-$ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
+$ expo install expo-font @expo-google-fonts/nunito
 
 ```
 
