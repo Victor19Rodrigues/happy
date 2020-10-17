@@ -22,7 +22,7 @@
   </a>
 </p>
 <!-- <p align="center">
-<a href="https://insomnia.rest/run/?label=NLW%201.0%20-%20Ecoleta&uri=https%3A%2F%2Fraw.githubusercontent.com%VictorRodrigues%2FNLW-1.0%2Fmaster%2Fbackend%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+<a href="https://insomnia.rest/run/?label=happy%20-%20Ecoleta&uri=https%3A%2F%2Fraw.githubusercontent.com%Victor19Rodrigues%2Fhappy%2Fmaster%2Fbackend%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p> -->
 <p align="center">
   <a href="#-nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -44,7 +44,7 @@ An online and completely free event that will help you take the next step in you
 - Dia 1: Acelerando sua evolução 12/10 - :heavy_check_mark:
 - Dia 2: Olhando as oportunidades 13/10 - :heavy_check_mark:
 - Dia 3: A escolha da Stack 14/10 - :heavy_check_mark:
-- Dia 4: Até 2 anos em 2 meses 15/10 - :construction:
+- Dia 4: Até 2 anos em 2 meses 15/10 - :heavy_check_mark:
 - Dia 5: Milha extra 16/10 - :construction:
 
 ## 💻 Project
@@ -116,14 +116,14 @@ $ yarn start
 # running on port 3000
 ```
 
-<!-- ### Install Mobile -->
+### Install Mobile
 
-<!-- ```bash
+```bash
 # Clone this repository
-$ git clone https://github.com/Victor19Rodrigues/NLW-1.0
+$ git clone https://github.com/Victor19Rodrigues/happy
 
 # Go into the repository
-$ cd NLW-1.0/mobile
+$ cd happy/mobile
 
 # Install dependencies
 $ yarn install
@@ -136,7 +136,7 @@ $ yarn start
 # If some problem with fonts, execute:
 $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 
-``` -->
+```
 
 ## 🤔 How to contribute
 
